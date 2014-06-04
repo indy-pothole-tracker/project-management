@@ -1,1 +1,1 @@
-Check out the wiki in this repository for more information. ==========>
+Check out the wiki and issue tracker on the right. 
